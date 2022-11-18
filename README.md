@@ -1,3 +1,3 @@
-- 👋 olá,eu sou matheus h.
-- 👀 eu estou interessado em progamação e jogos..
-- 📫 
+- 👋 olá, somos Matheus H. e Leonardo.m.c.kinauber
+- 👀 eu estamos interessado em progamação e jogos..
+- 📫 para nos contatar matheus.cardoso.andrade@escola.pr.gov.br e leonardo.kinauber@escola.pr.gov.br
